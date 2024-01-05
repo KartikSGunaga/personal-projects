@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MorseCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dailyPanchangam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/habitTracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mondayMotivation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weatherForecast" vcs="Git" />
+  </component>
+</project>
